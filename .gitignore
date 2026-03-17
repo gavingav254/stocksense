@@ -1,0 +1,1 @@
+node_modules/\n.env\n.env.local\n.env.*.local\ndist/\nbuild/\n.DS_Store\n*.log\nnpm-debug.log*\nyarn-debug.log*\nyarn-error.log*\n.expo/\n.expo-shared/\ndist-ssr/\ncoverage/\.vscode/\n.idea/
